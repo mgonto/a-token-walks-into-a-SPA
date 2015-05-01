@@ -1,8 +1,8 @@
-## Talk Starter
+## A token walkts into a SPA...
 
-This are the slides for the talk WHAT TALK?
+This are the slides for the talk A token walkts into a SPA...? It shows how to add authentication to an Angular 2 app
 
-You can see them at http://mgonto.github.io/talk-starter
+You can see them at http://mgonto.github.io/a-token-walks-into-a-spa
 
 ## Thanks
 
