@@ -245,19 +245,36 @@ article.world::before {
   background-image: url("../img/world.gif");
 }
 
-article.screen-1::before {
+article.boom1::before {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none;
   background-size: contain;
-  background-image: url("../img/screen-1.png");
+  background-image: url("../img/boom1.gif");
 }
+
+article.boom2::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-size: contain;
+  background-image: url("../img/boom2.gif");
+}
+
+article.warning::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-size: contain;
+  background-image: url("../img/warning.gif");
+}
+
 
 article.screen-1::before {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none;
-  background-size: contain;
+  background-size: 120% auto;
   background-image: url("../img/screen-1.png");
 }
 
@@ -265,7 +282,7 @@ article.screen-2::before {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none;
-  background-size: contain;
+  background-size: 120% auto;
   background-image: url("../img/screen-2.png");
 }
 
@@ -273,7 +290,7 @@ article.screen-3::before {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none;
-  background-size: contain;
+  background-size: 120% auto;
   background-image: url("../img/screen-3.png");
 }
 
@@ -281,7 +298,7 @@ article.screen-4::before {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none;
-  background-size: contain;
+  background-size: 120% auto;
   background-image: url("../img/screen-4.png");
 }
 
@@ -289,7 +306,7 @@ article.screen-5::before {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none;
-  background-size: contain;
+  background-size: 120% auto;
   background-image: url("../img/screen-5.png");
 }
 
@@ -297,7 +314,7 @@ article.screen-6::before {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none;
-  background-size: contain;
+  background-size: 120% auto;
   background-image: url("../img/screen-6.png");
 }
 
@@ -305,7 +322,7 @@ article.screen-7::before {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none;
-  background-size: contain;
+  background-size: 120% auto;
   background-image: url("../img/screen-7.png");
 }
 
@@ -313,7 +330,7 @@ article.screen-8::before {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none;
-  background-size: contain;
+  background-size: 120% auto;
   background-image: url("../img/screen-8.png");
 }
 
@@ -321,7 +338,7 @@ article.screen-9::before {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none;
-  background-size: contain;
+  background-size: 120% auto;
   background-image: url("../img/screen-9.png");
 }
 
@@ -329,7 +346,7 @@ article.screen-10::before {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none;
-  background-size: contain;
+  background-size: 120% auto;
   background-image: url("../img/screen-10.png");
 }
 
@@ -338,7 +355,7 @@ article.screen-11::before {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none;
-  background-size: contain;
+  background-size: 120% auto;
   background-image: url("../img/screen-11.png");
 }
 
@@ -346,9 +363,63 @@ article.screen-12::before {
   -webkit-filter: none;
   -moz-filter: none;
   filter: none;
-  background-size: contain;
+  background-size: 120% auto;
   background-image: url("../img/screen-12.png");
 }
+
+article.screen-13::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-size: 120% auto;
+  background-image: url("../img/screen-13.png");
+}
+
+
+article.screen-14::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-size: 120% auto;
+  background-image: url("../img/screen-14.png");
+}
+
+article.screen-jwt::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-size: 120% auto;
+  background-image: url("../img/screen-jwt.png");
+}
+
+article.stop-talk::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/stop-talk.gif");
+}
+
+article.not-cool-spa::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/not-cool-spa.gif");
+}
+
+article.wait-what::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/wait-what.gif");
+}
+
+article.not-cool::before {
+  -webkit-filter: blur(3.25px) grayscale(0.5) brightness(0.2);
+  -moz-filter: blur(3.25px) grayscale(0.5) brightness(0.2);
+  filter: blur(3.25px) grayscale(0.5) brightness(0.2);
+  background-image: url("../img/not-cool.jpg");
+}
+
 
 
 
