@@ -56,6 +56,10 @@ article section.white {
   color: #F80;
 }
 
+.red {
+  color: red;
+}
+
 .to-the-resque .content {
   width: 600px;
 }
