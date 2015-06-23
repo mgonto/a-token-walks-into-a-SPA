@@ -157,6 +157,20 @@ article.developer::before {
   background-position: top;
 }
 
+article.sleepy::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/sleepy.gif");
+}
+
+article.flashy-lights::before {
+  -webkit-filter: none;
+  -moz-filter: none;
+  filter: none;
+  background-image: url("../img/flashy-lights.gif");
+}
+
 article.auth0::before {
   -webkit-filter: blur(5.5px) grayscale(0.3) brightness(0.4);
   -moz-filter: blur(5.5px) grayscale(0.3) brightness(0.4);
